@@ -1,6 +1,2 @@
-const BASE_URL =
-  typeof window !== "undefined"
-    ? "http://localhost:5000"
-    : "http://10.0.2.2:5000";
-
+const BASE_URL = "https://gdgc-smart-study-planner.onrender.com";
 export default BASE_URL;
